@@ -1,0 +1,22 @@
+{
+  "name": "http-sample",
+  "version": "1.0.0",
+  "description": "Node HTTP Sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisalvesmartins/node-http-sample.git"
+  },
+  "author": "Luis Alves Martins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luisalvesmartins/node-http-sample/issues"
+  },
+  "homepage": "https://github.com/luisalvesmartins/node-http-sample#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
